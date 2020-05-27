@@ -1,7 +1,7 @@
 <img width="1000" alt="intel-fpga-devcloud" src="https://user-images.githubusercontent.com/56968566/68611681-86f05600-046f-11ea-8d12-f5259d60e7da.png">
 
 <div align="center">
-  <strong>FPGA DESIGN DEVELOPMENT AND WORKLOADS FOR HARDWARE ACCELERATION</strong>
+  <strong>FPGA DESIGN DEVELOPMENT AND WORKLOADS FOR  HARDWARE ACCELERATION</strong>
 </div>
 <div align="center">
  Develop programmable solutions and validate your workloads on leading FPGA hardware with tools optimized for Intel technology. Use this cloud solution in the classroom to support acceleration engineering curriculum. 
@@ -47,6 +47,6 @@ For instructions on how to connect to the Devcloud, click on **[Devcloud Access 
 
 For access to quick, hands-on guides that will get you started on key features of Intel FPGA Devcloud technology, click on [**Quickstart Guides**](https://github.com/intel/FPGA-Devcloud/tree/master/main/QuickStartGuides#Contents).
 
-For answers to commonly asked questions, click [**FAQ**](https://github.com/intel/FPGA-Devcloud/tree/master/main/FAQ#faq).
+For answers to commonly asked questions you can, click [**FAQ**](https://github.com/intel/FPGA-Devcloud/tree/master/main/FAQ#faq).
 
 ------
